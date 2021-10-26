@@ -76,7 +76,7 @@
         "163312729190686968-1": {
           "type": "text",
           "settings": {
-            "text": "Get a taste of what's to come. Click on the buttons below to view our favorite emails we've sent out recently."
+            "text": "Get a taste of what's to come. Click on the buttons below to view our favorite emails we've sent."
           }
         },
         "163312729190686968-2": {
@@ -103,9 +103,9 @@
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 40,
         "color_scheme": "background-1",
-        "stack_images_on_mobile": false,
+        "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
@@ -140,7 +140,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Fish_Hat_Model_2_full_crop.jpg",
         "height": "adapt",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "layout": "text_first"
       }
     },
@@ -168,9 +168,30 @@
         "title": "Browse the catalog",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_padding": false,
         "show_view_all": false
+      }
+    },
+    "163528508547c74b71": {
+      "type": "apps",
+      "blocks": {
+        "4581bd97-efbd-4d6c-a2b4-45a1b4df5cff": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "heading": "",
+            "link": "",
+            "is_autoplay_enabled": false,
+            "featured_product": "",
+            "featured_collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "4581bd97-efbd-4d6c-a2b4-45a1b4df5cff"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -180,6 +201,7 @@
     "1633126908530fd0f7",
     "163312729190686968",
     "16331278049b4d4e8a",
-    "163312734619c1c5eb"
+    "163312734619c1c5eb",
+    "163528508547c74b71"
   ]
 }
