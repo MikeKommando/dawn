@@ -34,11 +34,12 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Mr_Yuck_Side_View_colored_1.jpg",
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": false,
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 50,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -178,6 +179,41 @@
         "swipe_on_mobile": false
       }
     },
+    "16352793354e032d82": {
+      "type": "image-with-text",
+      "blocks": {
+        "16352793354e032d82-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hot."
+          }
+        },
+        "16352793354e032d82-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is literally one of my favorite gear pics ever, something about the colors is so satisfying to look at.<\/p>"
+          }
+        },
+        "16352793354e032d82-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get a non-embargoed rig",
+            "button_link": "shopify:\/\/products\/new-sadf-pattern-83-chest-rig"
+          }
+        }
+      },
+      "block_order": [
+        "16352793354e032d82-0",
+        "16352793354e032d82-1",
+        "16352793354e032d82-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pouches_Square_Crop_Wide.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "163527767745eacda1": {
       "type": "collection-list",
       "blocks": {
@@ -242,6 +278,7 @@
     "featured_products",
     "163527933119166035",
     "multi_column",
+    "16352793354e032d82",
     "163527767745eacda1",
     "1635277948876db6f1"
   ]
