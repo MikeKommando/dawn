@@ -1,0 +1,659 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1633130257c3ce7c61": {
+      "type": "image-banner",
+      "blocks": {
+        "1633130257c3ce7c61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "QTNVG Assembly"
+          }
+        },
+        "1633130257c3ce7c61-1": {
+          "type": "text",
+          "settings": {
+            "text": "The only new production panoramic device currently available for civilian purchase in the United States."
+          }
+        }
+      },
+      "block_order": [
+        "1633130257c3ce7c61-0",
+        "1633130257c3ce7c61-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20201129_190822_957c5b90-ad86-451e-b6b4-e93556590791.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true
+      }
+    },
+    "1633363271413b00aa": {
+      "type": "featured-product",
+      "blocks": {
+        "1633363271413b00aa-0": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "1633363271413b00aa-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1633363271413b00aa-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "1633363271413b00aa-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1633363271413b00aa-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1633363271413b00aa-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1633363271413b00aa-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1633363271413b00aa-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1633363271413b00aa-0",
+        "1633363271413b00aa-1",
+        "1633363271413b00aa-2",
+        "1633363271413b00aa-3",
+        "1633363271413b00aa-4",
+        "1633363271413b00aa-5",
+        "1633363271413b00aa-6",
+        "1633363271413b00aa-7"
+      ],
+      "settings": {
+        "product": "qtnvg-quad-tube-night-vision-device-housing-with-assembly",
+        "secondary_background": false,
+        "enable_video_looping": false
+      }
+    },
+    "163336351293f8337e": {
+      "type": "image-banner",
+      "blocks": {
+        "163336351293f8337e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Night Vision Services"
+          }
+        },
+        "163336351293f8337e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Affordable milspec services — delivered with integrity"
+          }
+        }
+      },
+      "block_order": [
+        "163336351293f8337e-0",
+        "163336351293f8337e-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PVS-14_Banner_e96f2844-e00d-4b2a-8885-0882eebc75f1.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true
+      }
+    },
+    "1633363543e3536ed4": {
+      "type": "multicolumn",
+      "blocks": {
+        "1633363543e3536ed4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NVG_Service_Station.jpg",
+            "title": "By The Book",
+            "text": "<p>Our services are preformed in a clean, static-free environment using milspec tooling and testing equipment.<\/p><p>Our vetted service staff have extensive technical experience with NODs.<\/p>"
+          }
+        },
+        "1633363543e3536ed4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NVG_White_Glove.jpg",
+            "title": "End to End",
+            "text": "<p>Enjoy peace of mind with our fully insured, door to door service.<br\/><br\/>As soon as you order, we'll mail you protective packaging and prepaid postage for your devices.<\/p>"
+          }
+        },
+        "1633363543e3536ed4-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NVG_Customer_Service_Rep.jpg",
+            "title": "Dedicated Customer Service",
+            "text": "<p>From pickup to drop-off. We're with you every step of the way.<br\/><br\/>Our NV service and sales department is backed by dedicated staff operating a separate helpdesk.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1633363543e3536ed4-0",
+        "1633363543e3536ed4-1",
+        "1633363543e3536ed4-2"
+      ],
+      "settings": {
+        "title": "We Do It Right",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "16333640695d697f84": {
+      "type": "featured-product",
+      "blocks": {
+        "16333640695d697f84-0": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "16333640695d697f84-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16333640695d697f84-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "16333640695d697f84-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16333640695d697f84-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16333640695d697f84-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16333640695d697f84-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16333640695d697f84-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16333640695d697f84-0",
+        "16333640695d697f84-1",
+        "16333640695d697f84-2",
+        "16333640695d697f84-3",
+        "16333640695d697f84-4",
+        "16333640695d697f84-5",
+        "16333640695d697f84-6",
+        "16333640695d697f84-7"
+      ],
+      "settings": {
+        "product": "night-vision-servicing",
+        "secondary_background": false,
+        "enable_video_looping": false
+      }
+    },
+    "16333641624539151b": {
+      "type": "rich-text",
+      "blocks": {
+        "16333641624539151b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Offerings In Detail",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16333641624539151b-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16333643252e689a93": {
+      "type": "multicolumn",
+      "blocks": {
+        "16333643252e689a93-0": {
+          "type": "column",
+          "settings": {
+            "title": "Why Purge?",
+            "text": "<p>Most people wouldn't drive to work every day on flat tires, but a shocking amount of people treat their night vision this way.<\/p><p> Nitrogen keeps dust, condensation, and water outside the unit where it belongs. <\/p><p>Failing to regularly purge your device needlessly compromises it's function, leading to image quality issues and parts failures.<\/p>"
+          }
+        },
+        "16333643252e689a93-1": {
+          "type": "column",
+          "settings": {
+            "title": "Every 90-180 Days",
+            "text": "<p>If you use your night vision devices more than 75 hours per year, you need semi-annual purging. <\/p><p>And if they're exposed to harsh conditions and temperature swings, you may need to purge every quarter.<\/p>"
+          }
+        },
+        "16333643252e689a93-2": {
+          "type": "column",
+          "settings": {
+            "title": "Absolutely Painless",
+            "text": "<p>With the right equipment and training, purging is quick, effective, and affordable. But it's not something you can do in the field. Don't wait until your device fogs over to get a purge.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16333643252e689a93-0",
+        "16333643252e689a93-1",
+        "16333643252e689a93-2"
+      ],
+      "settings": {
+        "title": "Nitrogen Purging",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "16333644189c25ec4c": {
+      "type": "multicolumn",
+      "blocks": {
+        "16333644189c25ec4c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Full Physical",
+            "text": "<p>Our comprehensive service starts with the complete disassembly of your device. <\/p><p>Each component is inspected and function checked. This identifies damaged, and missing components before they cause issues.<\/p>"
+          }
+        },
+        "16333644189c25ec4c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Clean as a Whistle",
+            "text": "<p>Because dust can settle and shake loose, we clean your lenses along with every other piece of your device. We use the correct, non-damaging tools in a clean, anti-static environment.<\/p>"
+          }
+        },
+        "16333644189c25ec4c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Infinity Focus",
+            "text": "<p>Locking rings can creep over time. Checking and re-calibrating your infinity focus is an essential part of any complete service, and ensures annoyance free operation of your unit.<\/p>"
+          }
+        },
+        "d7207aee-8bc9-4d7f-ac56-dc0e359556f8": {
+          "type": "column",
+          "settings": {
+            "title": "Measured Collimation",
+            "text": "<p>Precise adjustments to the horizontal and vertical alignment of your optic are necessary to prevent eye strain and ensure optical quality. This time consuming step is often skipped by less scrupulous vendors, especially with monocular devices.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16333644189c25ec4c-0",
+        "16333644189c25ec4c-1",
+        "16333644189c25ec4c-2",
+        "d7207aee-8bc9-4d7f-ac56-dc0e359556f8"
+      ],
+      "settings": {
+        "title": "Comprehensive Inspection & Service",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1633364618f4edb94e": {
+      "type": "image-banner",
+      "blocks": {
+        "1633364618f4edb94e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Working On A Build?"
+          }
+        },
+        "1633364618f4edb94e-1": {
+          "type": "text",
+          "settings": {
+            "text": "We'll inspect and assemble your parts into a complete and fully serviced device."
+          }
+        }
+      },
+      "block_order": [
+        "1633364618f4edb94e-0",
+        "1633364618f4edb94e-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Assembly_banner_91e63704-bf35-4551-af4e-9d55e2b5ad9d.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true
+      }
+    },
+    "1633364788c684b686": {
+      "type": "featured-product",
+      "blocks": {
+        "1633364788c684b686-0": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "1633364788c684b686-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1633364788c684b686-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "1633364788c684b686-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1633364788c684b686-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1633364788c684b686-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1633364788c684b686-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1633364788c684b686-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1633364788c684b686-0",
+        "1633364788c684b686-1",
+        "1633364788c684b686-2",
+        "1633364788c684b686-3",
+        "1633364788c684b686-4",
+        "1633364788c684b686-5",
+        "1633364788c684b686-6",
+        "1633364788c684b686-7"
+      ],
+      "settings": {
+        "product": "night-vision-assembly",
+        "secondary_background": false,
+        "enable_video_looping": false
+      }
+    },
+    "1633364823871c2e90": {
+      "type": "image-with-text",
+      "blocks": {
+        "1633364823871c2e90-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hourly Technician Time"
+          }
+        },
+        "1633364823871c2e90-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Need specialized assistance? Shoot us the details below.<\/p><p>We're Happy to quote you out, or point you in the right direciton.<\/p>"
+          }
+        },
+        "1633364823871c2e90-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request A Quote",
+            "button_link": "mailto:nvsales@Kommandostore.com"
+          }
+        }
+      },
+      "block_order": [
+        "1633364823871c2e90-0",
+        "1633364823871c2e90-1",
+        "1633364823871c2e90-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tech_TIme_banner_45206026-0123-4e9f-8ca4-a757b10b14dc.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16333652571b7a05f2": {
+      "type": "rich-text",
+      "blocks": {
+        "16333652571b7a05f2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Coming Soon",
+            "heading_size": "h0"
+          }
+        },
+        "16333652571b7a05f2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We're actively working to improve the scope and quality of our services.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16333652571b7a05f2-0",
+        "16333652571b7a05f2-1"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
+    "16333652617b318140": {
+      "type": "multicolumn",
+      "blocks": {
+        "16333652617b318140-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Automatic_Tracking_a6f46924-48fe-484f-b27a-156071e03965.png",
+            "title": "Automatic Progress Tracking",
+            "text": "<p>No more emails, track the status of your service request as easily as a pizza delivery.<\/p>"
+          }
+        },
+        "16333652617b318140-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Digital_Focus_2ecab5c0-016a-44c1-8f52-8a5a307d89ce.png",
+            "title": "Full Digital Collimation & Infinity Focus",
+            "text": "<p>We're investing in automated, digital equipment for the highest possible precision.<\/p>"
+          }
+        },
+        "09eaf510-410e-45f1-98dd-ac431b622777": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Accessory_71dd95be-4357-4bae-86d6-3f257772f0a0.png",
+            "title": "Accessory & Peripheral Support",
+            "text": "<p>The right supporting equipment makes a huge difference; we want you to be educated and well equipped.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16333652617b318140-0",
+        "16333652617b318140-1",
+        "09eaf510-410e-45f1-98dd-ac431b622777"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1633365514cef009a9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1633365514cef009a9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grading_ea8917f7-06a3-48a8-bf12-79b2db8b2b2c.png",
+            "title": "Image Intensifier Specifications",
+            "text": "<p>Complete spec sheets for any tube—generated by purpose built, milspec optical analysis equipment.<\/p>"
+          }
+        },
+        "1633365514cef009a9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Apprasial_eced6d35-d896-44c4-8fe6-45410f4c0eb8.png",
+            "title": "Image Intensifier Appraisal",
+            "text": "<p>Accurate, evidence based valuations for your buying and selling decisions—backed by optical analysis and market data.<\/p>"
+          }
+        },
+        "1633365514cef009a9-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Devices_49b583b9-9648-4b9c-b27a-a67cd17319bc.png",
+            "title": "More Devices",
+            "text": "<p>We are working hard to bring you a variety of new, assembled devices; covered by solid warranty and service plans.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1633365514cef009a9-0",
+        "1633365514cef009a9-1",
+        "1633365514cef009a9-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1633365760271652ca": {
+      "type": "multicolumn",
+      "blocks": {
+        "1633365760271652ca-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vinyl_91d6b390-ea95-4a20-a19b-5e78a2c7d03d.png",
+            "title": "Vinyl Wrapping",
+            "text": "<p>Complete sourcing and application solution for standard prints, and custom vinyl wraps.<\/p>"
+          }
+        },
+        "1633365760271652ca-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Painting_1a07aca8-71d5-47c3-b928-8a8a808fc9ad.png",
+            "title": "Painting & Stenciling",
+            "text": "<p>Complete sourcing and application solution for standard and color matched paints.<\/p>"
+          }
+        },
+        "1633365760271652ca-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pano.png",
+            "title": "Dedicated Quad & Pano Support",
+            "text": "<p>A standard service pipeline for everything four tubes. (For now, we recommended contacting us for a custom quote.)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1633365760271652ca-0",
+        "1633365760271652ca-1",
+        "1633365760271652ca-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1633130257c3ce7c61",
+    "1633363271413b00aa",
+    "163336351293f8337e",
+    "1633363543e3536ed4",
+    "16333640695d697f84",
+    "16333641624539151b",
+    "16333643252e689a93",
+    "16333644189c25ec4c",
+    "1633364618f4edb94e",
+    "1633364788c684b686",
+    "1633364823871c2e90",
+    "16333652571b7a05f2",
+    "16333652617b318140",
+    "1633365514cef009a9",
+    "1633365760271652ca"
+  ]
+}
