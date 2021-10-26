@@ -88,61 +88,13 @@
         "show_rating": false
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "video": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "video",
-        "product",
-        "collection"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
-      }
-    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2d235abb95e676468aecc2173c31b443_1000x_626f2785-318a-4ac2-aef0-a1e3883d702a.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
@@ -150,6 +102,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Tan_3.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
@@ -157,6 +110,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/fd3a06dccfa62ac1f33bf20dc27142c1_1000x_d36022c2-76b8-4a1e-a8b4-bd8a7a5f5572.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
@@ -170,12 +124,69 @@
       "settings": {
         "title": "Multicolumn",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "VIEW PRODUCT :^)))",
+        "button_link": "shopify:\/\/products\/afghan-9-11-pattern-war-rugs",
         "swipe_on_mobile": false
+      }
+    },
+    "163527767745eacda1": {
+      "type": "collection-list",
+      "blocks": {
+        "163527767745eacda1-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "admin-patches"
+          }
+        },
+        "163527767745eacda1-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "field-shirts-and-jackets"
+          }
+        },
+        "163527767745eacda1-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "packs-pouches-and-webbings"
+          }
+        }
+      },
+      "block_order": [
+        "163527767745eacda1-0",
+        "163527767745eacda1-1",
+        "163527767745eacda1-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-2",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "1635277948876db6f1": {
+      "type": "apps",
+      "blocks": {
+        "2ab38dd3-34e3-40f1-8c7b-07593b068d9c": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "heading": "",
+            "link": "",
+            "is_autoplay_enabled": false,
+            "featured_product": "",
+            "featured_collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "2ab38dd3-34e3-40f1-8c7b-07593b068d9c"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -183,8 +194,8 @@
     "image_banner",
     "rich_text",
     "featured_products",
-    "collage",
-    "video",
-    "multi_column"
+    "multi_column",
+    "163527767745eacda1",
+    "1635277948876db6f1"
   ]
 }

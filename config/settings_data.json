@@ -1,8 +1,8 @@
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#121212",
-    "colors_accent_2": "#334FB4",
+    "colors_accent_1": "#1878b9",
+    "colors_accent_2": "#e22120",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
@@ -18,7 +18,7 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
@@ -33,9 +33,10 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 100,
+          "logo": "shopify:\/\/shop_images\/shield_kommandostore_transparent_bg_3.png",
+          "logo_width": 250,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "main-menu-aug-2021-rev",
           "show_line_separator": true,
           "enable_sticky_header": true
         }
