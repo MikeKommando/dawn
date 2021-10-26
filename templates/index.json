@@ -63,7 +63,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "VIEW PRODUCT :^)))",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -93,6 +93,37 @@
         "show_image_outline": true,
         "show_vendor": false,
         "show_rating": false
+      }
+    },
+    "163527933119166035": {
+      "type": "newsletter",
+      "blocks": {
+        "163527933119166035-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't Miss Out On The Next Wave Of Surplus."
+          }
+        },
+        "163527933119166035-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>A few enjoyable emails a month and bonus deals when you subscribe.<br\/><br\/><em>Recently Ordered?<\/em> <strong>Get 10% off your next one, on us.<\/strong><br\/><br\/><em>Brand new? <\/em><strong>Get some tasty freebies on the house.<\/strong><\/p>"
+          }
+        },
+        "163527933119166035-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "163527933119166035-0",
+        "163527933119166035-1",
+        "163527933119166035-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
       }
     },
     "multi_column": {
@@ -201,6 +232,7 @@
     "image_banner",
     "rich_text",
     "featured_products",
+    "163527933119166035",
     "multi_column",
     "163527767745eacda1",
     "1635277948876db6f1"
