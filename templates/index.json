@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Brand about your talk",
+            "heading": "Brand About Your Talk",
             "heading_size": "large"
           }
         },
         "07942ffa-d4c2-4e61-a7d5-c6d352080041": {
           "type": "text",
           "settings": {
-            "text": "what if you straight up couldn't read this text ecks dee"
+            "text": "idea: what if you literally couldn't put text here because of how tiny it is haha"
           }
         },
         "button": {
@@ -50,14 +50,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Your Brand About Talk",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your talk with your customers. Describe a brand, make customers, or welcome announcements to your store.<\/p>"
           }
         },
         "button": {
@@ -114,16 +114,24 @@
           "type": "email_form",
           "settings": {
           }
+        },
+        "c1de29fa-c784-48a2-bc83-d6a0023b490c": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-badge\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "link": "",
+            "size": "small"
+          }
         }
       },
       "block_order": [
         "163527933119166035-0",
         "163527933119166035-1",
-        "163527933119166035-2"
+        "163527933119166035-2",
+        "c1de29fa-c784-48a2-bc83-d6a0023b490c"
       ],
       "settings": {
         "color_scheme": "background-2",
-        "full_width": true
+        "full_width": false
       }
     },
     "multi_column": {
