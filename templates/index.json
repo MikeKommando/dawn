@@ -35,14 +35,14 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Mr_Yuck_Side_View_colored_1.jpg",
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": false,
         "image_overlay_opacity": 50,
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "rich_text": {
@@ -176,7 +176,7 @@
         "background_style": "primary",
         "button_label": "VIEW PRODUCT :^)))",
         "button_link": "shopify:\/\/products\/afghan-9-11-pattern-war-rugs",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "16352793354e032d82": {
