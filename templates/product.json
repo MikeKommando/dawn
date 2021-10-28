@@ -53,7 +53,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description & History",
-            "content": "<p>{{ product.metafields.descriptors.subtitle.value }}<\/p>",
+            "content": "",
             "page": "",
             "icon": "chat_bubble"
           }
@@ -62,7 +62,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Specs",
-            "content": "<p>{{ product.metafields.descriptors.subtitle.value }}<\/p>",
+            "content": "<p>{{ product.metafields.my_fields.product_specs | metafield_tag }}<\/p>",
             "page": "",
             "icon": "question_mark"
           }
