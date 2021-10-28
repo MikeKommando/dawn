@@ -27,11 +27,6 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -40,6 +35,11 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -94,9 +94,9 @@
         "title",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
         "subtitle",
-        "price",
         "variant_picker",
         "quantity_selector",
+        "price",
         "buy_buttons",
         "0243ef29-fa3c-41b9-a5ed-edc61aeaa793",
         "c8417614-ad0a-4d7e-8f73-01a18f6b787f",
