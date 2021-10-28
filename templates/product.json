@@ -47,7 +47,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description & History",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.product_short_description | metafield_tag }}<\/p>",
             "page": "",
             "icon": "chat_bubble"
           }
@@ -81,7 +81,7 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "hide_variants": false,
         "enable_video_looping": false
       }
