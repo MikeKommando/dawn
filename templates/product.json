@@ -13,13 +13,6 @@
           "settings": {
           }
         },
-        "subtitle": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
         "68022809-7741-4fb6-8e84-064f450d92ff": {
           "type": "popup",
           "settings": {
@@ -78,7 +71,6 @@
       "block_order": [
         "title",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
-        "subtitle",
         "68022809-7741-4fb6-8e84-064f450d92ff",
         "variant_picker",
         "quantity_selector",
