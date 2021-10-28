@@ -3,13 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -27,13 +20,11 @@
             "text_style": "subtitle"
           }
         },
-        "9fab9067-ea48-4aa0-acec-ff48b221bb9a": {
-          "type": "collapsible_tab",
+        "68022809-7741-4fb6-8e84-064f450d92ff": {
+          "type": "popup",
           "settings": {
-            "heading": "Size & Condition Guides",
-            "content": "",
-            "page": "",
-            "icon": "ruler"
+            "text": "Size Guide",
+            "page": "{{ product.metafields.my_fields.size_guide.value }}"
           }
         },
         "variant_picker": {
@@ -44,6 +35,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -76,12 +68,6 @@
             "icon": "question_mark"
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -90,18 +76,16 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
         "subtitle",
-        "9fab9067-ea48-4aa0-acec-ff48b221bb9a",
+        "68022809-7741-4fb6-8e84-064f450d92ff",
         "variant_picker",
         "quantity_selector",
         "price",
         "buy_buttons",
         "0243ef29-fa3c-41b9-a5ed-edc61aeaa793",
         "c8417614-ad0a-4d7e-8f73-01a18f6b787f",
-        "description",
         "share"
       ],
       "settings": {
