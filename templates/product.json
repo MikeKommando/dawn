@@ -27,6 +27,15 @@
             "text_style": "subtitle"
           }
         },
+        "9fab9067-ea48-4aa0-acec-ff48b221bb9a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size & Condition Guides",
+            "content": "",
+            "page": "",
+            "icon": "ruler"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -67,15 +76,6 @@
             "icon": "question_mark"
           }
         },
-        "9fab9067-ea48-4aa0-acec-ff48b221bb9a": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size & Condition Guides",
-            "content": "",
-            "page": "",
-            "icon": "ruler"
-          }
-        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -94,13 +94,13 @@
         "title",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
         "subtitle",
+        "9fab9067-ea48-4aa0-acec-ff48b221bb9a",
         "variant_picker",
         "quantity_selector",
         "price",
         "buy_buttons",
         "0243ef29-fa3c-41b9-a5ed-edc61aeaa793",
         "c8417614-ad0a-4d7e-8f73-01a18f6b787f",
-        "9fab9067-ea48-4aa0-acec-ff48b221bb9a",
         "description",
         "share"
       ],
