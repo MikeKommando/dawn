@@ -66,6 +66,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "c364959a-1d92-492f-8771-9f54e053ba1b": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -78,10 +84,11 @@
         "buy_buttons",
         "0243ef29-fa3c-41b9-a5ed-edc61aeaa793",
         "c8417614-ad0a-4d7e-8f73-01a18f6b787f",
-        "share"
+        "share",
+        "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
-        "enable_sticky_info": false,
+        "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
       }
