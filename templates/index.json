@@ -179,19 +179,80 @@
         "swipe_on_mobile": true
       }
     },
+    "16357826057e5c710f": {
+      "type": "featured-product",
+      "blocks": {
+        "16357826057e5c710f-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16357826057e5c710f-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16357826057e5c710f-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16357826057e5c710f-5": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "16357826057e5c710f-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16357826057e5c710f-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16357826057e5c710f-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16357826057e5c710f-1",
+        "16357826057e5c710f-2",
+        "16357826057e5c710f-4",
+        "16357826057e5c710f-5",
+        "16357826057e5c710f-3",
+        "16357826057e5c710f-6",
+        "16357826057e5c710f-7"
+      ],
+      "settings": {
+        "product": "new-sadf-pattern-83-chest-rig",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "16352793354e032d82": {
       "type": "image-with-text",
       "blocks": {
         "16352793354e032d82-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hot."
+            "heading": "Closeup"
           }
         },
         "16352793354e032d82-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This is literally one of my favorite gear pics ever, something about the colors is so satisfying to look at.<\/p>"
+            "text": "<p>oh thank god there's a rich text editor here<\/p>"
           }
         },
         "16352793354e032d82-2": {
@@ -209,9 +270,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Pouches_Square_Crop_Wide.jpg",
-        "height": "adapt",
+        "height": "large",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "163527767745eacda1": {
@@ -278,6 +339,7 @@
     "featured_products",
     "163527933119166035",
     "multi_column",
+    "16357826057e5c710f",
     "16352793354e032d82",
     "163527767745eacda1",
     "1635277948876db6f1"
