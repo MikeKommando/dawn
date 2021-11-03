@@ -112,11 +112,11 @@
             "text": "<p>Take a look at our front page for new products & sales, or use the links below to browse our website. For more announcements and high-quality content, follow our <a href=\"https:\/\/www.instagram.com\/kommandostore\/\" title=\"https:\/\/www.instagram.com\/kommandostore\/\"><strong>Instagram<\/strong><\/a> and <a href=\"https:\/\/twitter.com\/kommandostore\" title=\"https:\/\/twitter.com\/kommandostore\"><strong>Twitter<\/strong><\/a>.<\/p>"
           }
         },
-        "1635978195a0dd1e4a-2": {
+        "a28f6c67-69d2-4fd3-b4e9-1b1ee64e7397": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "The Front Page",
+            "button_link": "https:\/\/kommandostore.com",
             "button_style_secondary": false
           }
         }
@@ -124,11 +124,40 @@
       "block_order": [
         "1635978195a0dd1e4a-0",
         "1635978195a0dd1e4a-1",
-        "1635978195a0dd1e4a-2"
+        "a28f6c67-69d2-4fd3-b4e9-1b1ee64e7397"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "163312734619c1c5eb": {
+      "type": "collection-list",
+      "blocks": {
+        "163312734619c1c5eb-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        },
+        "163312734619c1c5eb-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "catalog-sorted-by-new"
+          }
+        }
+      },
+      "block_order": [
+        "163312734619c1c5eb-0",
+        "163312734619c1c5eb-1"
+      ],
+      "settings": {
+        "title": "Browse the catalog",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
       }
     },
     "163312729190686968": {
@@ -177,70 +206,6 @@
         "show_text_below": true
       }
     },
-    "16331278049b4d4e8a": {
-      "type": "image-with-text",
-      "blocks": {
-        "16331278049b4d4e8a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "In The Mood to Peruse?"
-          }
-        },
-        "16331278049b4d4e8a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Check out the front page or the collections below to get started. <\/p><p>We've got a little something for everyone. High quality military surplus, even higher quality reproductions, and a splash of internet culture too.<\/p>"
-          }
-        },
-        "16331278049b4d4e8a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "The Front Page",
-            "button_link": "https:\/\/kommandostore.com\/"
-          }
-        }
-      },
-      "block_order": [
-        "16331278049b4d4e8a-0",
-        "16331278049b4d4e8a-1",
-        "16331278049b4d4e8a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Fish_Hat_Model_2_full_crop.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
-    "163312734619c1c5eb": {
-      "type": "collection-list",
-      "blocks": {
-        "163312734619c1c5eb-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "all-products"
-          }
-        },
-        "163312734619c1c5eb-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "catalog-sorted-by-new"
-          }
-        }
-      },
-      "block_order": [
-        "163312734619c1c5eb-0",
-        "163312734619c1c5eb-1"
-      ],
-      "settings": {
-        "title": "Browse the catalog",
-        "image_ratio": "square",
-        "color_scheme": "background-1",
-        "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
-      }
-    },
     "163528508547c74b71": {
       "type": "apps",
       "blocks": {
@@ -269,9 +234,8 @@
     "163597800050a01db1",
     "1633126908530fd0f7",
     "1635978195a0dd1e4a",
-    "163312729190686968",
-    "16331278049b4d4e8a",
     "163312734619c1c5eb",
+    "163312729190686968",
     "163528508547c74b71"
   ]
 }
