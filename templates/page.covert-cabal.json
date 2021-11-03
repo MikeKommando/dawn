@@ -12,24 +12,57 @@
         "1633126889c44419c0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Ivan's Newsletter",
-            "heading_size": "medium"
+            "heading": "Covert Cabal Collab",
+            "heading_size": "large"
+          }
+        },
+        "761468f6-bfe9-4acf-b682-dcb9a02237f9": {
+          "type": "text",
+          "settings": {
+            "text": "We're long time fans of the channel here at KommandoStore."
           }
         }
       },
       "block_order": [
-        "1633126889c44419c0-0"
+        "1633126889c44419c0-0",
+        "761468f6-bfe9-4acf-b682-dcb9a02237f9"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/P83_Chest_Rig_Repro_Front_Page_Flavor_1_a347e7f5-3b26-4451-9bfc-2f958e2ac3a7.jpg",
-        "image_height": "medium",
-        "adapt_height_first_image": false,
+        "image": "shopify:\/\/shop_images\/channels4_banner.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": false,
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 40,
         "color_scheme": "accent-1",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "163597800050a01db1": {
+      "type": "rich-text",
+      "blocks": {
+        "163597800050a01db1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "You might be fans of us too...",
+            "heading_size": "h1"
+          }
+        },
+        "163597800050a01db1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you like military history, high quality surplus, and even higher quality reproduction gear, you've come to the right place.<\/p><p>Sign up to our email list if you're interested. Less sales pitches, more history with a dose of humor (and our infamous off-the-wall sales).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163597800050a01db1-0",
+        "163597800050a01db1-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "1633126908530fd0f7": {
@@ -60,6 +93,41 @@
       ],
       "settings": {
         "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
+    "1635978195a0dd1e4a": {
+      "type": "rich-text",
+      "blocks": {
+        "1635978195a0dd1e4a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"Ok Ivan. Im in. What's Next?\"",
+            "heading_size": "h1"
+          }
+        },
+        "1635978195a0dd1e4a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take a look at our front page for new products & sales, or use the links below to browse our website. For more announcements and high-quality content, follow our <a href=\"https:\/\/www.instagram.com\/kommandostore\/\" title=\"https:\/\/www.instagram.com\/kommandostore\/\"><strong>Instagram<\/strong><\/a> and <a href=\"https:\/\/twitter.com\/kommandostore\" title=\"https:\/\/twitter.com\/kommandostore\"><strong>Twitter<\/strong><\/a>.<\/p>"
+          }
+        },
+        "1635978195a0dd1e4a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1635978195a0dd1e4a-0",
+        "1635978195a0dd1e4a-1",
+        "1635978195a0dd1e4a-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
         "full_width": true
       }
     },
@@ -198,7 +266,9 @@
   "order": [
     "main",
     "1633126889c44419c0",
+    "163597800050a01db1",
     "1633126908530fd0f7",
+    "1635978195a0dd1e4a",
     "163312729190686968",
     "16331278049b4d4e8a",
     "163312734619c1c5eb",
