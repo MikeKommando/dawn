@@ -1,0 +1,207 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1633126889c44419c0": {
+      "type": "image-banner",
+      "blocks": {
+        "1633126889c44419c0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ivan's Newsletter",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "1633126889c44419c0-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/P83_Chest_Rig_Repro_Front_Page_Flavor_1_a347e7f5-3b26-4451-9bfc-2f958e2ac3a7.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 50,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1633126908530fd0f7": {
+      "type": "newsletter",
+      "blocks": {
+        "1633126908530fd0f7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Less Suck In Your Inbox"
+          }
+        },
+        "1633126908530fd0f7-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>A few enjoyable emails a month and bonus deals when you subscribe.<br\/><br\/><em>Recently Ordered?<\/em> <strong>Get 10% off your next one, on us.<\/strong><br\/><br\/><em>Brand new? <\/em><strong>Get some tasty freebies on the house.<\/strong><br\/><\/p>"
+          }
+        },
+        "1633126908530fd0f7-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1633126908530fd0f7-0",
+        "1633126908530fd0f7-1",
+        "1633126908530fd0f7-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
+    "163312729190686968": {
+      "type": "image-banner",
+      "blocks": {
+        "163312729190686968-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want A Sample?",
+            "heading_size": "medium"
+          }
+        },
+        "163312729190686968-1": {
+          "type": "text",
+          "settings": {
+            "text": "Get a taste of what's to come. Click on the buttons below to view our favorite emails we've sent."
+          }
+        },
+        "163312729190686968-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Pattern 83: Ahead of its time",
+            "button_link_1": "https:\/\/www.klaviyo.com\/campaign\/UwrazY\/web-view",
+            "button_style_secondary_1": false,
+            "button_label_2": "Gorka: The Mountain King Returns",
+            "button_link_2": "https:\/\/mailchi.mp\/kommandostore\/nods-nutria-1275133",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163312729190686968-0",
+        "163312729190686968-1",
+        "163312729190686968-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pouches_Cropped.jpg",
+        "image_2": "shopify:\/\/shop_images\/Gorka_wave_3_email_2_up.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 40,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16331278049b4d4e8a": {
+      "type": "image-with-text",
+      "blocks": {
+        "16331278049b4d4e8a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "In The Mood to Peruse?"
+          }
+        },
+        "16331278049b4d4e8a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out the front page or the collections below to get started. <\/p><p>We've got a little something for everyone. High quality military surplus, even higher quality reproductions, and a splash of internet culture too.<\/p>"
+          }
+        },
+        "16331278049b4d4e8a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "The Front Page",
+            "button_link": "https:\/\/kommandostore.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "16331278049b4d4e8a-0",
+        "16331278049b4d4e8a-1",
+        "16331278049b4d4e8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Fish_Hat_Model_2_full_crop.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163312734619c1c5eb": {
+      "type": "collection-list",
+      "blocks": {
+        "163312734619c1c5eb-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        },
+        "163312734619c1c5eb-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "catalog-sorted-by-new"
+          }
+        }
+      },
+      "block_order": [
+        "163312734619c1c5eb-0",
+        "163312734619c1c5eb-1"
+      ],
+      "settings": {
+        "title": "Browse the catalog",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "163528508547c74b71": {
+      "type": "apps",
+      "blocks": {
+        "4581bd97-efbd-4d6c-a2b4-45a1b4df5cff": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "heading": "",
+            "link": "",
+            "is_autoplay_enabled": false,
+            "featured_product": "",
+            "featured_collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "4581bd97-efbd-4d6c-a2b4-45a1b4df5cff"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1633126889c44419c0",
+    "1633126908530fd0f7",
+    "163312729190686968",
+    "16331278049b4d4e8a",
+    "163312734619c1c5eb",
+    "163528508547c74b71"
+  ]
+}
