@@ -67,7 +67,7 @@
           "settings": {
             "heading": "Condition Guide",
             "content": "<p>{{ product.metafields.my_fields.product_short_description | metafield_tag }}<\/p>",
-            "page": "",
+            "page": "{{ product.metafields.my_fields.size_guide.value }}",
             "icon": "question_mark"
           }
         },
@@ -83,16 +83,16 @@
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Recommended Best Practices",
-            "content": "<p><br\/>— Meals should be fully hydrated per the official instructions, and left to fully absorb the water.<\/p><p>— Eating too fast can mess with your mood, your metabolism, and your digestive system. Pace yourself and eat at a normal speed.<\/p><p>— Rehydrating the meal just means that the meal is rehydrated. You are still in charge of hydrating yourself. Make sure to drink adequate water.<\/p><p>— Minimize exposure to direct sunlight and temperatures above 75°F to maximize shelf life. Like most things, if stored in a dry cool place it will last longer. Proprietary Mountain House packaging preserves flavor until 2029, and viable calories beyond that.<br\/><br\/><\/p>",
+            "heading": "Instructions",
+            "content": "<p>Featured here we have the original SADF field manual containing adjustment, handling and maintenance information on all P83 equipment. This can be viewed <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2602\/7094\/files\/Pattern_83_Soldier_Manual.pdf?2903\">here.<\/a><\/p><p>Chest Rig usage information can be found on pages A3, A9-A11, and A27-A33.<\/p><p><\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "star"
           }
         },
         "1c83b539-7666-4834-9e7b-41bdf3d49b1c": {
           "type": "popup",
           "settings": {
-            "text": "Nutritional Information",
+            "text": "Pop-up link text",
             "page": "mcw-nutritinal-information"
           }
         },
@@ -105,6 +105,7 @@
         },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         }
