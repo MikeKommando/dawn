@@ -69,6 +69,15 @@
             "share_label": "Share"
           }
         },
+        "97bce454-8069-4f53-a885-b712c9e3dcd9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "About",
+            "content": "<p>{{ product.metafields.my_fields.product_short_description | metafield_tag }}<br\/><br\/><\/p>",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
         "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64": {
           "type": "collapsible_tab",
           "settings": {
@@ -102,12 +111,13 @@
         "price",
         "buy_buttons",
         "share",
+        "97bce454-8069-4f53-a885-b712c9e3dcd9",
         "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "hide_variants": true,
         "enable_video_looping": false
       }
