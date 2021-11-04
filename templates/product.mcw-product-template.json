@@ -1,5 +1,38 @@
 {
   "sections": {
+    "1636043004ca7d97f0": {
+      "type": "image-banner",
+      "blocks": {
+        "1636043004ca7d97f0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MILSPEC MOUNTAIN HOUSE",
+            "heading_size": "large"
+          }
+        },
+        "1636043004ca7d97f0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Designed for extended patrols and harsh environments, the MCW\/LRP ration is rarely available on the open Market."
+          }
+        }
+      },
+      "block_order": [
+        "1636043004ca7d97f0-0",
+        "1636043004ca7d97f0-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_Banner_595815fb-debb-49c0-99e0-f9a9f9685370.jpg",
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 30,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -15,6 +48,7 @@
         },
         "68022809-7741-4fb6-8e84-064f450d92ff": {
           "type": "popup",
+          "disabled": true,
           "settings": {
             "text": "Size Guide",
             "page": "{{ product.metafields.my_fields.size_guide.value }}"
@@ -45,6 +79,7 @@
         },
         "0243ef29-fa3c-41b9-a5ed-edc61aeaa793": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Description & History",
             "content": "<p>{{ product.metafields.my_fields.product_short_description | metafield_tag }}<\/p>",
@@ -54,6 +89,7 @@
         },
         "c8417614-ad0a-4d7e-8f73-01a18f6b787f": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Specs",
             "content": "<p>{{ product.metafields.my_fields.product_specs | metafield_tag }}<\/p>",
@@ -69,7 +105,6 @@
         },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         }
@@ -88,7 +123,7 @@
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "hide_variants": false,
         "enable_video_looping": false
       }
@@ -103,6 +138,76 @@
         "show_image_outline": false,
         "show_vendor": false,
         "show_rating": false
+      }
+    },
+    "163604444473cf0e31": {
+      "type": "multicolumn",
+      "blocks": {
+        "163604444473cf0e31-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_1_375151ef-d6f9-4471-9a47-715e91f2a908.jpg",
+            "title": "Light & Compact",
+            "text": "<p>No water means no weight. Each MCW ration weighs in at 5 oz or less; approximately the same weight as an empty PMAG.<br\/><br\/>Pouches are vacuum sealed into a tight brick, with no extra bulk or packaging.<\/p>"
+          }
+        },
+        "163604444473cf0e31-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_2_dc3ec4d9-a3ee-4f37-8e53-a1a259f292e9.jpg",
+            "title": "Nutrient Dense",
+            "text": "<p>MCW rations contain significantly more protein and calories than their civilian counterparts.<br\/><br\/>Meals are perfectly suited for long duration, high exertion activity.<\/p>"
+          }
+        },
+        "163604444473cf0e31-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_3_5c39c348-2421-485d-b582-f01241e7fd79.jpg",
+            "title": "Any Environment",
+            "text": "<p>Mountain House's freeze drying expertise and propriety packaging ensures best in class stability and shelf life.<br\/><br\/>Rations last 10+ years and are resistant to extreme temperatures.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163604444473cf0e31-0",
+        "163604444473cf0e31-1",
+        "163604444473cf0e31-2"
+      ],
+      "settings": {
+        "title": "Not Your Standard MRE",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1636044565a608f984": {
+      "type": "image-banner",
+      "blocks": {
+        "1636044565a608f984-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Brief History of the MCW",
+            "heading_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "1636044565a608f984-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_Page_Top_Banner_297bc078-2725-4f64-93ed-5cdca7664698.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 40,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "1635279177340aa34c": {
@@ -124,8 +229,11 @@
     }
   },
   "order": [
+    "1636043004ca7d97f0",
     "main",
     "product-recommendations",
+    "163604444473cf0e31",
+    "1636044565a608f984",
     "1635279177340aa34c"
   ]
 }
