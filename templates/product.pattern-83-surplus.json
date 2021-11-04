@@ -34,6 +34,11 @@
           "settings": {
           }
         },
+        "24e18f30-a178-4010-9fee-a3c237d69ebe": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806": {
           "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
@@ -105,6 +110,7 @@
       },
       "block_order": [
         "title",
+        "24e18f30-a178-4010-9fee-a3c237d69ebe",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
         "variant_picker",
         "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
@@ -134,6 +140,22 @@
         "show_rating": false
       }
     },
+    "163605994469cf0416": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More SADF Pattern 83",
+        "collection": "pattern-83-webbing",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "1635279177340aa34c": {
       "type": "apps",
       "blocks": {
@@ -156,6 +178,7 @@
     "1636043004ca7d97f0",
     "main",
     "product-recommendations",
+    "163605994469cf0416",
     "1635279177340aa34c"
   ]
 }
