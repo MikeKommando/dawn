@@ -69,6 +69,15 @@
             "share_label": "Share"
           }
         },
+        "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specs",
+            "content": "<p>{{ product.metafields.my_fields.product_specs | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
         "86361eb5-2bec-4f26-a754-ac70f86ba39d": {
           "type": "collapsible_tab",
           "settings": {
@@ -94,10 +103,17 @@
             "page": "mcw-nutritinal-information"
           }
         },
+        "265b0771-30f5-460b-968c-9b66c3a185b7": {
+          "type": "text",
+          "settings": {
+            "text": "Return Policy:",
+            "text_style": "subtitle"
+          }
+        },
         "375970cd-486f-4491-a1bb-fbcb7eab856f": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "Once the seal on the bag is punctured we cannot accept a return on this item. The meals are consumables and once consumed void warranty.",
             "text_style": "body"
           }
         },
@@ -115,14 +131,16 @@
         "price",
         "buy_buttons",
         "share",
+        "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
         "86361eb5-2bec-4f26-a754-ac70f86ba39d",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
         "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
+        "265b0771-30f5-460b-968c-9b66c3a185b7",
         "375970cd-486f-4491-a1bb-fbcb7eab856f",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
-        "enable_sticky_info": false,
+        "enable_sticky_info": true,
         "hide_variants": true,
         "enable_video_looping": false
       }
