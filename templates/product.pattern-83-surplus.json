@@ -62,6 +62,15 @@
             "share_label": "Share"
           }
         },
+        "86361eb5-2bec-4f26-a754-ac70f86ba39d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Condition Guide",
+            "content": "<p>{{ product.metafields.my_fields.product_short_description | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
         "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64": {
           "type": "collapsible_tab",
           "settings": {
@@ -69,15 +78,6 @@
             "content": "<p>{{ product.metafields.my_fields.product_specs | metafield_tag }}<\/p>",
             "page": "",
             "icon": "chat_bubble"
-          }
-        },
-        "86361eb5-2bec-4f26-a754-ac70f86ba39d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Official Preparation Instructions",
-            "content": "<p><\/p><p> — Add 8-16 (check package) ounces of hot water (~⅓ canteen cup) to pouchStir, wait ~5-10 minutes until fully rehydrated.<\/p><p>— Hot water can be added in stages to keep food hot.<br\/><br\/><\/p>",
-            "page": "",
-            "icon": "question_mark"
           }
         },
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3": {
@@ -116,8 +116,8 @@
         "price",
         "buy_buttons",
         "share",
-        "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
         "86361eb5-2bec-4f26-a754-ac70f86ba39d",
+        "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
         "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
         "ad7f99c0-c12a-4672-a23e-414c9302e51b",
