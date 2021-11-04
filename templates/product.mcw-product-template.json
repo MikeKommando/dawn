@@ -210,6 +210,46 @@
         "show_text_below": false
       }
     },
+    "1636044611b6e2971a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636044611b6e2971a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Food Packet, Long Range Patrol or \"LRP ration\" (pronounced \"lurp\") is a U.S. Army freeze-dried field ration. It was developed in 1964 during the Vietnam War (1959–75) for use by a special group of SF soldiers, the LRRPs.<br\/><br\/><\/p><p>Long Range Reconnaissance Patrols were small, silent, and heavily armed teams which ventured deep in VC-held territory. More often than not, 4-5 men were tasked with shadowing large formations of VC regulars.<br\/><br\/>To do this effectively, they had to be light, fast, and well fed. Bulky canned MCI rations (formerly known as C rations) proved too heavy for extended missions on foot. In fact they were worse than heavy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636044611b6e2971a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_1_a86f7967-7eb6-4071-85a6-a95337e968b9.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16360451461d08f496": {
+      "type": "image-with-text",
+      "blocks": {
+        "16360451461d08f496-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In response to these concerns, a new ration was developed. The Food Packet, Individual, Combat (FPIC). Inspired by NASA’s astronaut meals, FPICs were a first generation freeze dried combat ration.<\/p><p><br\/><\/p><p>Weighing in at 11 oz, it was dramatically lighter than the wet canned meals, although it was ultimately doomed by shoddy packaging. Out of this project came the LRP. A lighter weight, humidity proof version of the FPIC. Specially made for the boys  <a href=\"https:\/\/i.imgur.com\/GU0K51g.jpg\">pranking the Viet Cong every weekend.<\/a> They were smaller than standard rations, but had enough calories to keep LRRPs going. More importantly, they were minimally packaged, fast to prepare, and easy to eat.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16360451461d08f496-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_2_4fdaccf4-3106-4dda-b415-de3fd110da6a.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1635279177340aa34c": {
       "type": "apps",
       "blocks": {
@@ -234,6 +274,8 @@
     "product-recommendations",
     "163604444473cf0e31",
     "1636044565a608f984",
+    "1636044611b6e2971a",
+    "16360451461d08f496",
     "1635279177340aa34c"
   ]
 }
