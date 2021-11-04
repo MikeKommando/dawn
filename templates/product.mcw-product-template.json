@@ -27,10 +27,10 @@
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 40,
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "main": {
@@ -105,6 +105,7 @@
         },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         }
@@ -124,7 +125,7 @@
       ],
       "settings": {
         "enable_sticky_info": false,
-        "hide_variants": false,
+        "hide_variants": true,
         "enable_video_looping": false
       }
     },
