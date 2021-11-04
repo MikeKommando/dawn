@@ -116,9 +116,18 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Recommended Best Practices",
-            "content": "",
+            "content": "<p><br\/>— Meals should be fully hydrated per the official instructions, and left to fully absorb the water.<\/p><p>— Eating too fast can mess with your mood, your metabolism, and your digestive system. Pace yourself and eat at a normal speed.<\/p><p>— Rehydrating the meal just means that the meal is rehydrated. You are still in charge of hydrating yourself. Make sure to drink adequate water.<\/p><p>— Minimize exposure to direct sunlight and temperatures above 75°F to maximize shelf life. Like most things, if stored in a dry cool place it will last longer. Proprietary Mountain House packaging preserves flavor until 2029, and viable calories beyond that.<br\/><br\/><\/p>",
             "page": "",
             "icon": "check_mark"
+          }
+        },
+        "301fb45d-8e1b-4d82-9528-ad400f78b17c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Nutritional Information",
+            "content": "",
+            "page": "",
+            "icon": "chat_bubble"
           }
         },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
@@ -140,6 +149,7 @@
         "share",
         "86361eb5-2bec-4f26-a754-ac70f86ba39d",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
+        "301fb45d-8e1b-4d82-9528-ad400f78b17c",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
