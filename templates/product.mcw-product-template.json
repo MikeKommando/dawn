@@ -103,9 +103,26 @@
             "share_label": "Share"
           }
         },
+        "86361eb5-2bec-4f26-a754-ac70f86ba39d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Official Preparation Instructions",
+            "content": "<p><\/p><p> — Add 8-16 (check package) ounces of hot water (~⅓ canteen cup) to pouchStir, wait ~5-10 minutes until fully rehydrated.<\/p><p>— Hot water can be added in stages to keep food hot.<br\/><br\/><\/p>",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
+        "4c79dc34-fe9e-40b0-b91a-63d02748e1e3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Best Practices",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         }
@@ -121,6 +138,8 @@
         "0243ef29-fa3c-41b9-a5ed-edc61aeaa793",
         "c8417614-ad0a-4d7e-8f73-01a18f6b787f",
         "share",
+        "86361eb5-2bec-4f26-a754-ac70f86ba39d",
+        "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
