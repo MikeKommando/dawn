@@ -87,13 +87,6 @@
             "icon": "star"
           }
         },
-        "ad7f99c0-c12a-4672-a23e-414c9302e51b": {
-          "type": "popup",
-          "settings": {
-            "text": "Pop-up link text",
-            "page": ""
-          }
-        },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
           "type": "description",
           "disabled": true,
@@ -111,11 +104,10 @@
         "share",
         "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
-        "ad7f99c0-c12a-4672-a23e-414c9302e51b",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
-        "enable_sticky_info": false,
+        "enable_sticky_info": true,
         "hide_variants": true,
         "enable_video_looping": false
       }
@@ -155,7 +147,7 @@
         "163604444473cf0e31-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_1_375151ef-d6f9-4471-9a47-715e91f2a908.jpg",
+            "image": "{{ product.metafields.my_fields.test.value }}",
             "title": "Light & Compact",
             "text": "<p>No water means no weight. Each MCW ration weighs in at 5 oz or less; approximately the same weight as an empty PMAG.<br\/><br\/>Pouches are vacuum sealed into a tight brick, with no extra bulk or packaging.<\/p>"
           }
