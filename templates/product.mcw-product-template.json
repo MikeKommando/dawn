@@ -46,24 +46,10 @@
           "settings": {
           }
         },
-        "68022809-7741-4fb6-8e84-064f450d92ff": {
-          "type": "popup",
-          "disabled": true,
-          "settings": {
-            "text": "Size Guide",
-            "page": "{{ product.metafields.my_fields.size_guide.value }}"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
           }
         },
         "price": {
@@ -75,26 +61,6 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
-          }
-        },
-        "0243ef29-fa3c-41b9-a5ed-edc61aeaa793": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Description & History",
-            "content": "<p>{{ product.metafields.my_fields.product_short_description | metafield_tag }}<\/p>",
-            "page": "",
-            "icon": "chat_bubble"
-          }
-        },
-        "c8417614-ad0a-4d7e-8f73-01a18f6b787f": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Specs",
-            "content": "<p>{{ product.metafields.my_fields.product_specs | metafield_tag }}<\/p>",
-            "page": "",
-            "icon": "question_mark"
           }
         },
         "share": {
@@ -121,13 +87,11 @@
             "icon": "check_mark"
           }
         },
-        "301fb45d-8e1b-4d82-9528-ad400f78b17c": {
-          "type": "collapsible_tab",
+        "1c83b539-7666-4834-9e7b-41bdf3d49b1c": {
+          "type": "popup",
           "settings": {
-            "heading": "Nutritional Information",
-            "content": "",
-            "page": "",
-            "icon": "chat_bubble"
+            "text": "Nutritional Information",
+            "page": "mcw-nutritinal-information"
           }
         },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
@@ -139,17 +103,13 @@
       "block_order": [
         "title",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
-        "68022809-7741-4fb6-8e84-064f450d92ff",
         "variant_picker",
-        "quantity_selector",
         "price",
         "buy_buttons",
-        "0243ef29-fa3c-41b9-a5ed-edc61aeaa793",
-        "c8417614-ad0a-4d7e-8f73-01a18f6b787f",
         "share",
         "86361eb5-2bec-4f26-a754-ac70f86ba39d",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
-        "301fb45d-8e1b-4d82-9528-ad400f78b17c",
+        "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
