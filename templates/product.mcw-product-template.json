@@ -140,6 +140,23 @@
         "show_rating": false
       }
     },
+    "1635279177340aa34c": {
+      "type": "apps",
+      "blocks": {
+        "29e44931-17a1-46f2-ae2d-0db3a88fd55b": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "29e44931-17a1-46f2-ae2d-0db3a88fd55b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "163604444473cf0e31": {
       "type": "multicolumn",
       "blocks": {
@@ -250,21 +267,86 @@
         "layout": "image_first"
       }
     },
-    "1635279177340aa34c": {
-      "type": "apps",
+    "1636045152bc0235e5": {
+      "type": "image-with-text",
       "blocks": {
-        "29e44931-17a1-46f2-ae2d-0db3a88fd55b": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+        "1636045152bc0235e5-1": {
+          "type": "text",
           "settings": {
-            "widget_type": "reviews_widget"
+            "text": "<p>In response to these concerns, a new ration was developed. The Food Packet, Individual, Combat (FPIC). Inspired by NASA’s astronaut meals, FPICs were a first generation freeze dried combat ration.<\/p><p><br\/>Weighing in at 11 oz, it was dramatically lighter than the wet canned meals, although it was ultimately doomed by shoddy packaging. Out of this project came the LRP. A lighter weight, humidity proof version of the FPIC. Specially made for the boys  <a href=\"https:\/\/i.imgur.com\/GU0K51g.jpg\">pranking the Viet Cong every weekend.<\/a> They were smaller than standard rations, but had enough calories to keep LRRPs going. More importantly, they were minimally packaged, fast to prepare, and easy to eat.<\/p>"
           }
         }
       },
       "block_order": [
-        "29e44931-17a1-46f2-ae2d-0db3a88fd55b"
+        "1636045152bc0235e5-1"
       ],
       "settings": {
-        "include_margins": true
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_3_4f9b2349-6b9f-4581-a59c-00379f29e9c7.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636045372cb519acf": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636045372cb519acf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mountain House, A Domain Expert In Freeze Dried Food"
+          }
+        },
+        "1636045372cb519acf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mountain House is synonymous with high quality freeze dried food. Whether it's emergency meals in your basement, or that spaghetti you had on that hiking trip, Mountain House is instantly familiar to many Americans.<\/p><p><br\/>Well they didn't stop with happy couples eating on a mountain top. They did wars too. <em>They still do.<\/em> The modern incarnation of the LRP main meal, is now several generations removed from Vietnam.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636045372cb519acf-0",
+        "1636045372cb519acf-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_4_61f8f443-f708-4d93-8c2a-cc8a721d1cb9.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16360456600d04af9e": {
+      "type": "multicolumn",
+      "blocks": {
+        "16360456600d04af9e-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MCW_page_Image_5_90670461-4473-43e0-b87b-cffb2e31c73a.jpg",
+            "title": "",
+            "text": "<p>Enter the modern MCW\/LRP main meal. The centerpiece of current issue US Long Range Patrol and Meal Cold Weather rations.<\/p><p><br\/>Weighing in at 5 oz or less, the modern LRP\/MCW is exceptionally resistant to extreme temperatures. It will remain shelf stable for 10+ years, thanks to Mountain House's proprietary packaging, and freeze dry expertise. Built for high intensity exercise, each main contains absurd quantities of protein, up to 43g per serving. Yes that's double most protein shakes.<\/p>"
+          }
+        },
+        "16360456600d04af9e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MCW_page_Image_6_e0fc7075-c08f-4770-9a1a-70f343d22e71.jpg",
+            "title": "",
+            "text": "<p>And while we're on the subject of protein; Mountain House even did the impossible: They made MRE eggs <em>delicious<\/em>.<\/p><p><br\/>I know what you're thinking. \"There's no way in hell they made MRE eggs even <em>remotely<\/em> good.\" Normally you'd be right. But this is freeze dry we're talking about. When you master the freeze dry, you become a flavor god. The Western-Style Scrambled Eggs With Ham, Peppers & Cheese looks like you stole it out of a diner.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16360456600d04af9e-0",
+        "16360456600d04af9e-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
@@ -272,10 +354,13 @@
     "1636043004ca7d97f0",
     "main",
     "product-recommendations",
+    "1635279177340aa34c",
     "163604444473cf0e31",
     "1636044565a608f984",
     "1636044611b6e2971a",
     "16360451461d08f496",
-    "1635279177340aa34c"
+    "1636045152bc0235e5",
+    "1636045372cb519acf",
+    "16360456600d04af9e"
   ]
 }
