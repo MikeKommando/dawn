@@ -1,0 +1,450 @@
+{
+  "sections": {
+    "1636043004ca7d97f0": {
+      "type": "image-banner",
+      "blocks": {
+        "1636043004ca7d97f0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MILSPEC MOUNTAIN HOUSE",
+            "heading_size": "large"
+          }
+        },
+        "1636043004ca7d97f0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Designed for extended patrols and harsh environments, the MCW\/LRP ration is rarely available on the open Market."
+          }
+        }
+      },
+      "block_order": [
+        "1636043004ca7d97f0-0",
+        "1636043004ca7d97f0-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_Banner_595815fb-debb-49c0-99e0-f9a9f9685370.jpg",
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 40,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "4c9f9ff0-fc37-41f8-bbca-a0db01443806": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specs",
+            "content": "<p>{{ product.metafields.my_fields.product_specs | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "86361eb5-2bec-4f26-a754-ac70f86ba39d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Official Preparation Instructions",
+            "content": "<p><\/p><p> — Add 8-16 (check package) ounces of hot water (~⅓ canteen cup) to pouchStir, wait ~5-10 minutes until fully rehydrated.<\/p><p>— Hot water can be added in stages to keep food hot.<br\/><br\/><\/p>",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
+        "4c79dc34-fe9e-40b0-b91a-63d02748e1e3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Best Practices",
+            "content": "<p><br\/>— Meals should be fully hydrated per the official instructions, and left to fully absorb the water.<\/p><p>— Eating too fast can mess with your mood, your metabolism, and your digestive system. Pace yourself and eat at a normal speed.<\/p><p>— Rehydrating the meal just means that the meal is rehydrated. You are still in charge of hydrating yourself. Make sure to drink adequate water.<\/p><p>— Minimize exposure to direct sunlight and temperatures above 75°F to maximize shelf life. Like most things, if stored in a dry cool place it will last longer. Proprietary Mountain House packaging preserves flavor until 2029, and viable calories beyond that.<br\/><br\/><\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "1c83b539-7666-4834-9e7b-41bdf3d49b1c": {
+          "type": "popup",
+          "settings": {
+            "text": "Nutritional Information",
+            "page": "mcw-nutritinal-information"
+          }
+        },
+        "ad7f99c0-c12a-4672-a23e-414c9302e51b": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": ""
+          }
+        },
+        "265b0771-30f5-460b-968c-9b66c3a185b7": {
+          "type": "text",
+          "settings": {
+            "text": "Return Policy:",
+            "text_style": "subtitle"
+          }
+        },
+        "375970cd-486f-4491-a1bb-fbcb7eab856f": {
+          "type": "text",
+          "settings": {
+            "text": "Once the seal on the bag is punctured we cannot accept a return on this item. The meals are consumables and once consumed void warranty.",
+            "text_style": "body"
+          }
+        },
+        "c364959a-1d92-492f-8771-9f54e053ba1b": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
+        "variant_picker",
+        "price",
+        "buy_buttons",
+        "share",
+        "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
+        "86361eb5-2bec-4f26-a754-ac70f86ba39d",
+        "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
+        "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
+        "ad7f99c0-c12a-4672-a23e-414c9302e51b",
+        "265b0771-30f5-460b-968c-9b66c3a185b7",
+        "375970cd-486f-4491-a1bb-fbcb7eab856f",
+        "c364959a-1d92-492f-8771-9f54e053ba1b"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "hide_variants": true,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Customers also bought",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1635279177340aa34c": {
+      "type": "apps",
+      "blocks": {
+        "29e44931-17a1-46f2-ae2d-0db3a88fd55b": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "29e44931-17a1-46f2-ae2d-0db3a88fd55b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "163604444473cf0e31": {
+      "type": "multicolumn",
+      "blocks": {
+        "163604444473cf0e31-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_1_375151ef-d6f9-4471-9a47-715e91f2a908.jpg",
+            "title": "Light & Compact",
+            "text": "<p>No water means no weight. Each MCW ration weighs in at 5 oz or less; approximately the same weight as an empty PMAG.<br\/><br\/>Pouches are vacuum sealed into a tight brick, with no extra bulk or packaging.<\/p>"
+          }
+        },
+        "163604444473cf0e31-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_2_dc3ec4d9-a3ee-4f37-8e53-a1a259f292e9.jpg",
+            "title": "Nutrient Dense",
+            "text": "<p>MCW rations contain significantly more protein and calories than their civilian counterparts.<br\/><br\/>Meals are perfectly suited for long duration, high exertion activity.<\/p>"
+          }
+        },
+        "163604444473cf0e31-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_3_5c39c348-2421-485d-b582-f01241e7fd79.jpg",
+            "title": "Any Environment",
+            "text": "<p>Mountain House's freeze drying expertise and propriety packaging ensures best in class stability and shelf life.<br\/><br\/>Rations last 10+ years and are resistant to extreme temperatures.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163604444473cf0e31-0",
+        "163604444473cf0e31-1",
+        "163604444473cf0e31-2"
+      ],
+      "settings": {
+        "title": "Not Your Standard MRE",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1636044565a608f984": {
+      "type": "image-banner",
+      "blocks": {
+        "1636044565a608f984-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Brief History of the MCW",
+            "heading_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "1636044565a608f984-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_Page_Top_Banner_297bc078-2725-4f64-93ed-5cdca7664698.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 40,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1636044611b6e2971a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636044611b6e2971a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Food Packet, Long Range Patrol or \"LRP ration\" (pronounced \"lurp\") is a U.S. Army freeze-dried field ration. It was developed in 1964 during the Vietnam War (1959–75) for use by a special group of SF soldiers, the LRRPs.<br\/><br\/><\/p><p>Long Range Reconnaissance Patrols were small, silent, and heavily armed teams which ventured deep in VC-held territory. More often than not, 4-5 men were tasked with shadowing large formations of VC regulars.<br\/><br\/>To do this effectively, they had to be light, fast, and well fed. Bulky canned MCI rations (formerly known as C rations) proved too heavy for extended missions on foot. In fact they were worse than heavy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636044611b6e2971a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_1_a86f7967-7eb6-4071-85a6-a95337e968b9.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16360451461d08f496": {
+      "type": "image-with-text",
+      "blocks": {
+        "16360451461d08f496-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In response to these concerns, a new ration was developed. The Food Packet, Individual, Combat (FPIC). Inspired by NASA’s astronaut meals, FPICs were a first generation freeze dried combat ration.<\/p><p><br\/><\/p><p>Weighing in at 11 oz, it was dramatically lighter than the wet canned meals, although it was ultimately doomed by shoddy packaging. Out of this project came the LRP. A lighter weight, humidity proof version of the FPIC. Specially made for the boys  <a href=\"https:\/\/i.imgur.com\/GU0K51g.jpg\">pranking the Viet Cong every weekend.<\/a> They were smaller than standard rations, but had enough calories to keep LRRPs going. More importantly, they were minimally packaged, fast to prepare, and easy to eat.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16360451461d08f496-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_2_4fdaccf4-3106-4dda-b415-de3fd110da6a.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1636045152bc0235e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636045152bc0235e5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In response to these concerns, a new ration was developed. The Food Packet, Individual, Combat (FPIC). Inspired by NASA’s astronaut meals, FPICs were a first generation freeze dried combat ration.<\/p><p><br\/>Weighing in at 11 oz, it was dramatically lighter than the wet canned meals, although it was ultimately doomed by shoddy packaging. Out of this project came the LRP. A lighter weight, humidity proof version of the FPIC. Specially made for the boys  <a href=\"https:\/\/i.imgur.com\/GU0K51g.jpg\">pranking the Viet Cong every weekend.<\/a> They were smaller than standard rations, but had enough calories to keep LRRPs going. More importantly, they were minimally packaged, fast to prepare, and easy to eat.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636045152bc0235e5-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_3_4f9b2349-6b9f-4581-a59c-00379f29e9c7.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636045372cb519acf": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636045372cb519acf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mountain House, A Domain Expert In Freeze Dried Food"
+          }
+        },
+        "1636045372cb519acf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mountain House is synonymous with high quality freeze dried food. Whether it's emergency meals in your basement, or that spaghetti you had on that hiking trip, Mountain House is instantly familiar to many Americans.<\/p><p><br\/>Well they didn't stop with happy couples eating on a mountain top. They did wars too. <em>They still do.<\/em> The modern incarnation of the LRP main meal, is now several generations removed from Vietnam.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636045372cb519acf-0",
+        "1636045372cb519acf-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_4_61f8f443-f708-4d93-8c2a-cc8a721d1cb9.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1636047448f7a85d10": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636047448f7a85d10-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enter the modern MCW\/LRP main meal. The centerpiece of current issue US Long Range Patrol and Meal Cold Weather rations.<\/p><p><br\/>Weighing in at 5 oz or less, the modern LRP\/MCW is exceptionally resistant to extreme temperatures. It will remain shelf stable for 10+ years, thanks to Mountain House's proprietary packaging, and freeze dry expertise. Built for high intensity exercise, each main contains absurd quantities of protein, up to 43g per serving. Yes that's double most protein shakes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636047448f7a85d10-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_5_90670461-4473-43e0-b87b-cffb2e31c73a.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163604774350fb62d3": {
+      "type": "image-with-text",
+      "blocks": {
+        "163604774350fb62d3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>And while we're on the subject of protein; Mountain House even did the impossible: They made MRE eggs <em>delicious<\/em>.<\/p><p><br\/>I know what you're thinking. \"There's no way in hell they made MRE eggs even <em>remotely<\/em> good.\" Normally you'd be right. But this is freeze dry we're talking about. When you master the freeze dry, you become a flavor god. The Western-Style Scrambled Eggs With Ham, Peppers & Cheese looks like you stole it out of a diner.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163604774350fb62d3-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_6_e0fc7075-c08f-4770-9a1a-70f343d22e71.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163604784844970a81": {
+      "type": "image-with-text",
+      "blocks": {
+        "163604784844970a81-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have been dealers for Mountain House since 2014, I'm ashamed to say we didn't know about the <em>powerful<\/em> MCW\/LRP until just recently.<br\/><\/p><p><br\/>Well it turns out there was a reason for that. LRP rations only enter the market when there's a DOD contract overrun. Previously, you couldn't buy them at all---Mountain House had to petition for the ability to legally sell overruns. Anyway the stars aligned for us, and right as we discovered the LRP there was a big lot of meals available...<\/p><p><br\/><\/p><p>So you can guess who has a warehouse full of the finest freeze dried combat rations ever to grace God's green Earth. What can I say no other ration lets you fit 40 days of food in a duffel bag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163604784844970a81-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MCW_page_Image_7_e0257a1a-417e-4adb-810d-3d49f3a911c7.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636046223cf492107": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636046223cf492107-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thanks to Mountain House's \"brick pack\" packaging and proprietary barrier film, the LRPs far exceed government requirements. Flavor will be preserved until 2029, and the calories themselves will last long after that. 20 years from now you can cut open your LRP and be greeted by the satisfying hiss of depressurization and the delightful smell of turkey tetrazzini.<br\/><br\/><\/p><p><strong>te·​traz·​zi·​ni<\/strong> served over pasta with a cream sauce, often flavored with sherry, sprinkled with cheese, and browned in the oven.<\/p><p><br\/><\/p><p>And for that brief moment of Italian cheesy bliss, the wasteland of post apocalyptic North America, will be filled with the aroma of Mama Bianchi's kitchen. Just like it was in the old country.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636046223cf492107-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Size_Compair_Mag_1_e72fbfcf-0f25-43fe-91f6-0655a4274c10.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163604649319606564": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/maxresdefault_d1c9cc7c-83e0-487c-8626-55d5af1ac501.jpg",
+        "video_url": "https:\/\/youtu.be\/jYaUwg3__xo",
+        "description": "",
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "1636043004ca7d97f0",
+    "main",
+    "product-recommendations",
+    "1635279177340aa34c",
+    "163604444473cf0e31",
+    "1636044565a608f984",
+    "1636044611b6e2971a",
+    "16360451461d08f496",
+    "1636045152bc0235e5",
+    "1636045372cb519acf",
+    "1636047448f7a85d10",
+    "163604774350fb62d3",
+    "163604784844970a81",
+    "1636046223cf492107",
+    "163604649319606564"
+  ]
+}
