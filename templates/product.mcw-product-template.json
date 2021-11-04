@@ -140,7 +140,7 @@
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "hide_variants": true,
         "enable_video_looping": false
       }
