@@ -6,31 +6,24 @@
         "1636043004ca7d97f0-0": {
           "type": "heading",
           "settings": {
-            "heading": "MILSPEC MOUNTAIN HOUSE",
+            "heading": "SADF Pattern 83",
             "heading_size": "large"
-          }
-        },
-        "1636043004ca7d97f0-1": {
-          "type": "text",
-          "settings": {
-            "text": "Designed for extended patrols and harsh environments, the MCW\/LRP ration is rarely available on the open Market."
           }
         }
       },
       "block_order": [
-        "1636043004ca7d97f0-0",
-        "1636043004ca7d97f0-1"
+        "1636043004ca7d97f0-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MCW_Banner_595815fb-debb-49c0-99e0-f9a9f9685370.jpg",
-        "image_height": "large",
-        "adapt_height_first_image": true,
+        "image": "shopify:\/\/shop_images\/de488ad5-0408-4fcf-947c-83c1d1ad2133.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
-        "show_text_box": true,
+        "show_text_box": false,
         "image_overlay_opacity": 40,
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "main": {
@@ -110,23 +103,8 @@
             "page": ""
           }
         },
-        "265b0771-30f5-460b-968c-9b66c3a185b7": {
-          "type": "text",
-          "settings": {
-            "text": "Return Policy:",
-            "text_style": "subtitle"
-          }
-        },
-        "375970cd-486f-4491-a1bb-fbcb7eab856f": {
-          "type": "text",
-          "settings": {
-            "text": "Once the seal on the bag is punctured we cannot accept a return on this item. The meals are consumables and once consumed void warranty.",
-            "text_style": "body"
-          }
-        },
         "c364959a-1d92-492f-8771-9f54e053ba1b": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         }
@@ -143,8 +121,6 @@
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
         "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
         "ad7f99c0-c12a-4672-a23e-414c9302e51b",
-        "265b0771-30f5-460b-968c-9b66c3a185b7",
-        "375970cd-486f-4491-a1bb-fbcb7eab856f",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
       "settings": {
