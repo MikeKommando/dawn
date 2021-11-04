@@ -348,6 +348,71 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1636046197e72be1fc": {
+      "type": "multicolumn",
+      "blocks": {
+        "1636046197e72be1fc-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MCW_page_Image_7_e0257a1a-417e-4adb-810d-3d49f3a911c7.jpg",
+            "title": "",
+            "text": "<p>We have been dealers for Mountain House since 2014, I'm ashamed to say we didn't know about the <em>powerful<\/em> MCW\/LRP until a month ago.<\/p><p><br\/><\/p><p>Well it turns out there was a reason for that. LRP rations only enter the market when there's a DOD contract overrun. Previously, you couldn't buy them at all---Mountain House had to petition for the ability to legally sell overruns. Anyway the stars aligned for us, and right as we discovered the LRP there was a big lot of meals available...<\/p>"
+          }
+        },
+        "1636046197e72be1fc-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MCW_page_Image_8_48d5dfe8-eeb7-4c50-be53-cd1a74246c35.jpg",
+            "title": "",
+            "text": "<p>So you can guess who has a warehouse full of the finest freeze dried combat rations ever to grace God's green Earth. What can I say no other ration lets you fit 40 days of food in a duffel bag.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636046197e72be1fc-0",
+        "1636046197e72be1fc-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1636046223cf492107": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636046223cf492107-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><\/p><p>Thanks to Mountain House's \"brick pack\" packaging and proprietary barrier film, the LRPs far exceed government requirements. Flavor will be preserved until 2029, and the calories themselves will last long after that. 20 years from now you can cut open your LRP and be greeted by the satisfying hiss of depressurization and the delightful smell of turkey tetrazzini.<br\/><br\/><\/p><p><strong>te·​traz·​zi·​ni<\/strong> served over pasta with a cream sauce, often flavored with sherry, sprinkled with cheese, and browned in the oven.<\/p><p><br\/><\/p><p>And for that brief moment of Italian cheesy bliss, the wasteland of post apocalyptic North America, will be filled with the aroma of Mama Bianchi's kitchen. Just like it was in the old country.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636046223cf492107-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mountain_House_MCW_Size_Compair_Mag_1_e72fbfcf-0f25-43fe-91f6-0655a4274c10.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163604649319606564": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Mountain_House_MCW_Flavor_Image_3_5c39c348-2421-485d-b582-f01241e7fd79.jpg",
+        "video_url": "https:\/\/youtu.be\/jYaUwg3__xo",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -361,6 +426,9 @@
     "16360451461d08f496",
     "1636045152bc0235e5",
     "1636045372cb519acf",
-    "16360456600d04af9e"
+    "16360456600d04af9e",
+    "1636046197e72be1fc",
+    "1636046223cf492107",
+    "163604649319606564"
   ]
 }
