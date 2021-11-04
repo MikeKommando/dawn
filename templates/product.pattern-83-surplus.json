@@ -83,7 +83,7 @@
         "1c83b539-7666-4834-9e7b-41bdf3d49b1c": {
           "type": "popup",
           "settings": {
-            "text": "Pop-up link text",
+            "text": "Condition Guide",
             "page": "{{ product.metafields.my_fields.size_guide.value }}"
           }
         },
