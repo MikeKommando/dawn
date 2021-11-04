@@ -45,6 +45,13 @@
             "picker_type": "dropdown"
           }
         },
+        "1c83b539-7666-4834-9e7b-41bdf3d49b1c": {
+          "type": "popup",
+          "settings": {
+            "text": "Condition Guide",
+            "page": "{{ product.metafields.my_fields.size_guide.value }}"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -80,13 +87,6 @@
             "icon": "star"
           }
         },
-        "1c83b539-7666-4834-9e7b-41bdf3d49b1c": {
-          "type": "popup",
-          "settings": {
-            "text": "Condition Guide",
-            "page": "{{ product.metafields.my_fields.size_guide.value }}"
-          }
-        },
         "ad7f99c0-c12a-4672-a23e-414c9302e51b": {
           "type": "popup",
           "settings": {
@@ -105,12 +105,12 @@
         "title",
         "4c9f9ff0-fc37-41f8-bbca-a0db01443806",
         "variant_picker",
+        "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
         "price",
         "buy_buttons",
         "share",
         "3cfc92f9-484d-4f91-b7fb-ddb67f4eae64",
         "4c79dc34-fe9e-40b0-b91a-63d02748e1e3",
-        "1c83b539-7666-4834-9e7b-41bdf3d49b1c",
         "ad7f99c0-c12a-4672-a23e-414c9302e51b",
         "c364959a-1d92-492f-8771-9f54e053ba1b"
       ],
